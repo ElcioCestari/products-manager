@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "computer",
+      "price": 5899.99
+    },
+    {
+      "id": 2,
+      "name": "play station",
+      "price": 4899.99
+    },
+    {
+      "id": 3,
+      "name": "monitor",
+      "price": 1899.99
+    },
+    {
+      "id": 4,
+      "name": "notebook",
+      "price": 7899.99
+    },
+    {
+      "name": "geladeira",
+      "price": "1999.99",
+      "id": 5
+    },
+    {
+      "name": "geladeira",
+      "price": "1999.99",
+      "id": 6
+    }
+  ]
+}
